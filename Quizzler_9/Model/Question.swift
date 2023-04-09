@@ -16,3 +16,15 @@ struct Question {
         answer = a
     }
 }
+
+struct QuestionS {
+    let text: String
+    let variable: [String]
+    let answer: String
+    
+    init(q: String, a: [String], correctAnswer: String) {
+        text = q
+        variable = a
+        answer = correctAnswer
+    }
+}
