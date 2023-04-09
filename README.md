@@ -1,4 +1,4 @@
 ![Banner](Documentation/banner.png)
 
 # App Screen
-![Screen](Documentation/giphy.gif)
+![Screen](Documentation/Apps gif.gif)
